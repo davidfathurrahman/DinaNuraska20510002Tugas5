@@ -1,2 +1,2 @@
-# DinaNuraska20510002Tugas5
-Aplikasi Sederhana Kotlin
+# Dina20510002Tugas5
+Praktikum5
